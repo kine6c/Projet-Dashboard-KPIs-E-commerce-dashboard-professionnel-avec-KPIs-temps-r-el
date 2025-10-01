@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+envProjFinal/
+*.pyc
+__pycache__/
+.DS_Store
+
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Fichiers de logs et SQLite
+*.log
+*.sqlite3
+
+# Fichiers générés par IDE
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
